@@ -1,0 +1,1 @@
+-- gowork filetype (go.work files)

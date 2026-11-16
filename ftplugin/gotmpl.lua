@@ -1,0 +1,1 @@
+-- gotmpl filetype (Go template files)
