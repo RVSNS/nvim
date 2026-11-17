@@ -10,6 +10,7 @@
   "markdown-preview.nvim": { "branch": "master", "commit": "a923f5fc5ba36a3b17e289dc35dc17f66d0548ee" },
   "mason-tool-installer.nvim": { "branch": "main", "commit": "443f1ef8b5e6bf47045cb2217b6f748a223cf7dc" },
   "mason.nvim": { "branch": "main", "commit": "2a6940af80375532e5e9e7c1f2fc6319a1b7a69d" },
+  "mini.align": { "branch": "main", "commit": "757136ffeb168450f0a854aef987b621f37500f5" },
   "mini.pairs": { "branch": "main", "commit": "eea81afc1b4de898de9bb310c2225f9225fd42b9" },
   "mini.statusline": { "branch": "main", "commit": "591b9d553dc3604b114577bc0f6e289ea3783fc2" },
   "nvim-tree.lua": { "branch": "master", "commit": "dbc9d96a3633c2de85f409416ebd4a3aacf4220a" },
