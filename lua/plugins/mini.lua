@@ -11,7 +11,10 @@ return {
   },
   {
     "echasnovski/mini.align",
-    keys = { "ga", "gA" },
+    keys = {
+      { "ga", mode = { "n", "x" } },
+      { "gA", mode = { "n", "x" } },
+    },
     opts = {},
   },
 }
